@@ -222,6 +222,3 @@ def home():
         "message": "JWT Fetcher API is running",
         "endpoint": "GET /access-to-jwt?access-token={your_token}"
     })
-
-# هذا السطر مهم لـ Vercel
-app = app
